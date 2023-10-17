@@ -12,7 +12,7 @@ This repo contains guide and logos for the Chaintool brand.
 
 <!-- Badge row 2 - links and profiles -->
 [![Website chaintool.ai](https://img.shields.io/website-up-down-green-red/https/chaintool.ai)](https://chaintool.ai)
-[![Twitter ChaintoolTech](https://img.shields.io/twitter/follow/BuildOnBase?style=social)](https://twitter.com/chaintooltech)
+[![Twitter ChaintoolTech](https://img.shields.io/twitter/follow/ChaintoolTech?style=social)](https://twitter.com/chaintooltech)
 
 <!-- Badge row 3 - detailed status -->
 [![GitHub pull requests by-label](https://img.shields.io/github/issues-pr-raw/chaintool-tech-oss/brand-kit)](https://github.com/chaintool-tech-oss/brand-kit/pulls)
