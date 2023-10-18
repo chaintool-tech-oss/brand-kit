@@ -10,13 +10,13 @@ This repo contains guide and logos for the Chaintool brand.
 [![GitHub Stars](https://img.shields.io/github/stars/chaintool-tech-oss/brand-kit.svg)](https://github.com/chaintool-tech-oss/brand-kit/stargazers)
 ![GitHub repo size](https://img.shields.io/github/repo-size/chaintool-tech-oss/brand-kit)
 
-<!-- Badge row 2 - links and profiles -->
-[![Website chaintool.ai](https://img.shields.io/website-up-down-green-red/https/chaintool.ai)](https://chaintool.ai)
-[![Twitter ChaintoolTech](https://img.shields.io/twitter/follow/ChaintoolTech?style=social)](https://twitter.com/chaintooltech)
-
-<!-- Badge row 3 - detailed status -->
+<!-- Badge row 2 - detailed status -->
 [![GitHub pull requests by-label](https://img.shields.io/github/issues-pr-raw/chaintool-tech-oss/brand-kit)](https://github.com/chaintool-tech-oss/brand-kit/pulls)
 [![GitHub Issues](https://img.shields.io/github/issues-raw/chaintool-tech-oss/brand-kit.svg)](https://github.com/chaintool-tech-oss/brand-kit/issues)
+
+<!-- Badge row 3 - links and profiles -->
+[![Website chaintool.ai](https://img.shields.io/website-up-down-green-red/https/chaintool.ai)](https://chaintool.ai)
+[![Twitter ChaintoolTech](https://img.shields.io/twitter/follow/ChaintoolTech?style=social)](https://twitter.com/chaintooltech)
 
 
 ### Logos
