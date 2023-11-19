@@ -1,6 +1,6 @@
 # Chaintool brand-kit
 
-[Chaintool](https://chaintool.ai) is a blockchain metadata and application company.
+[Chaintool](https://chaintool.ai) is THE blockchain metadata and application company.
 
 This repo contains logos for the Chaintool brand.
 
